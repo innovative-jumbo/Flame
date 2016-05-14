@@ -1,4 +1,13 @@
 ###################
+What is Flame
+###################
+
+Flame is a modified version of Codeigniter with many libraries pre-installed
+that will be useful for application development @ Innovative Jumbo. We are
+maintaining our own framework by adding more functionalities and integrating
+other open-source codes to the codeigniter.
+
+###################
 What is CodeIgniter
 ###################
 
